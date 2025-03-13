@@ -1,2 +1,2 @@
 # javascript-code--exampes
-30 + JavaScript Basic  code
+30+ Basic JavaScript codes for Practice
